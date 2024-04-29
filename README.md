@@ -1,5 +1,6 @@
 [![Header](https://github.com/andrew-sistuk/andrew-sistuk/blob/main/hi.gif "Header")](https://www.linkedin.com/in/andrew-sistuk/)
-## I'm a *Full Stack Developer* from Kiev.
+
+## *Full Stack Developer* from Kiev.
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&color=c8a2c8)
 

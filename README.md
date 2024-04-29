@@ -1,12 +1,5 @@
-### Hi there 👋
-
-
-
-# 👋🏻 Hi, my name is **Andrew Sistuk**!
 [![Header](https://github.com/andrew-sistuk/andrew-sistuk/blob/main/hi.gif "Header")](https://www.linkedin.com/in/andrew-sistuk/)
 ## I'm a *Full Stack Developer* from Kiev.
-
-
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&color=c8a2c8)
 
@@ -25,7 +18,7 @@
 
 - 🌱 I’m currently learning React&Node.js
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark
 

@@ -5,6 +5,8 @@
 # 👋🏻 Hi, my name is **Andrew Sistuk**!
 ## I'm a *Full Stack Developer* from Kiev.
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&color=c8a2c8)
+
 
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)

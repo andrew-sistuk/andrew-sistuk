@@ -2,9 +2,7 @@
 
 ## _Full Stack Developer_ from Kiev.
 
-<!-- ![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&color=) -->
-
-![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=plastic&logo=Github&hit=false)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=plastic&logo=WolframLanguage&hit=false)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -68,7 +66,7 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 
 <details>
   <br />
-  <h2>🧲 Connect with me<h2>
+  <summary><h2>🧲 Connect with me<h2></summary>
   <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/andrew-sistuk/"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

@@ -67,8 +67,8 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 <details>
   <br />
   <summary><b>🧲 Connect with me</b></summary>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/andrew-sistuk/"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/andrew-sistuk/"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
 </details>

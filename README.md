@@ -1,6 +1,6 @@
 [![Header](https://github.com/andrew-sistuk/andrew-sistuk/blob/main/hi.gif "Header")](https://www.linkedin.com/in/andrew-sistuk/)
 
-## *Full Stack Developer* from Kiev.
+## _Full Stack Developer_ from Kiev.
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&color=7E26AB)
 
@@ -16,17 +16,16 @@
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
-### Languages and Technologies 
+### Languages and Technologies
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+![API](<https://img.shields.io/badge/-REST API-090909?style=for-the-badge>)
 ![NodeJs](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-### ✉️ Mail me: andresistukwork@gmail.com
-#
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -63,11 +62,13 @@
 
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark
 
-> Talk is cheap. Show me the code. <br/>
-> ***Linus Torvalds***
+> Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**
 
+<details>
+  <br />
+  <summary><b>🧲 Connect with me</b></summary>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/andrew-sistuk/"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+</details>

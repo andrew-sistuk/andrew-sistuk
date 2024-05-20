@@ -4,17 +4,16 @@
 
 <p>I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
 <br/>
-<br/>
 
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
 
-<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <strong>hard</strong></li>
 <li>🌱 I’m currently learning everything 🤣</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a></li>
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a></li>
 <li>💬 Ask me about anything, I am happy to help</li>
 <li>🎉 Fun Fact: I am pretty</li>
 </ul>
@@ -278,8 +277,6 @@
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark -->
 
-> Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**
-
 <details>
   <br />
   <summary><h2 align="center">🧲 Connect with me<h2> 🧲</summary>
@@ -288,3 +285,6 @@
     <code><a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </details>
+
+
+> Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**

@@ -6,7 +6,7 @@
 <br/>
 
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
-![GitHub Andrew](https://img.shields.io/github/followers/thaiane?label=follow&style=social&color=7E26AB)](https://github.com/andrew-sistuk)
+[![GitHub Andrew](https://img.shields.io/github/followers/thaiane?label=follow&style=social&color=7E26AB)](https://github.com/andrew-sistuk)
 
 
 <h2>⚡️ A Few Quick Facts ⚡️</h2>

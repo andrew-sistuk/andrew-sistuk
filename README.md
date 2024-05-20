@@ -3,10 +3,10 @@
 # _Full Stack Developer_ from Kiev.
 
 <p>I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
-<br/>
 
-![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
-[![GitHub Andrew](https://img.shields.io/github/followers/andrew-sistuk?label=follow&style=social&color=7E26AB&style=flat&logo=dotnet)](https://github.com/andrew-sistuk)
+<code>![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)</code>
+<code>[![Follow](https://img.shields.io/github/followers/andrew-sistuk?label=Follow&style=social&color=555555&style=flat&logo=wolframlanguage&labelColor=7E26AB)](https://github.com/andrew-sistuk)</code>
+<code>[![Stars](https://img.shields.io/github/stars/andrew-sistuk?label=Stars&style=social&color=555555&style=flat&logo=starship&labelColor=7E26AB)](https://github.com/andrew-sistuk)</code>
 
 
 <h2>⚡️ A Few Quick Facts ⚡️</h2>
@@ -17,7 +17,9 @@
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a></li>
   <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a></li>
   <li>💬 Ask me about anything, I am happy to help</li>
+  <li>😐 I have a love/hate relationship with Programming</li>
   <li>🎉 Fun Fact: I am pretty</li>
+  
 </ul>
 
 ### Languages and Technologies

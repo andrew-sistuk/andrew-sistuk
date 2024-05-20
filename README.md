@@ -276,7 +276,7 @@
 <details>
   <br />
   <summary><h2 align="center">⚖️ Stats ⚖️<h2></summary>
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark -->

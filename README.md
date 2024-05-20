@@ -6,16 +6,18 @@
 <br/>
 
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
+![GitHub Andrew](https://img.shields.io/github/followers/thaiane?label=follow&style=social&color=7E26AB)](https://github.com/andrew-sistuk)
+
 
 <h2>⚡️ A Few Quick Facts ⚡️</h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
-<li>🔭 I’m currently working on <strong>hard</strong></li>
-<li>🌱 I’m currently learning everything 🤣</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a></li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a></li>
-<li>💬 Ask me about anything, I am happy to help</li>
-<li>🎉 Fun Fact: I am pretty</li>
+  <li>🔭 I’m currently working on something cool 😉</li>
+  <li>🌱 I’m currently learning everything 🤣</li>
+  <li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a></li>
+  <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a></li>
+  <li>💬 Ask me about anything, I am happy to help</li>
+  <li>🎉 Fun Fact: I am pretty</li>
 </ul>
 
 ### Languages and Technologies

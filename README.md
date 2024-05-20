@@ -11,6 +11,7 @@
 
 <h2>⚡️ A Few Quick Facts ⚡️</h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br/>
 <ul>
   <li>🔭 I’m currently working on something cool 😉</li>
   <li>🌱 I’m currently learning everything 🤣</li>
@@ -18,8 +19,7 @@
   <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a></li>
   <li>💬 Ask me about anything, I am happy to help</li>
   <li>😐 I have a love/hate relationship with Programming</li>
-  <li>🎉 Fun Fact: I am pretty</li>
-  
+  <li>🎉 Fun Fact: I am pretty</li> 
 </ul>
 
 ### Languages and Technologies

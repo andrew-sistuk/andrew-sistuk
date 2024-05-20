@@ -27,6 +27,7 @@
 <br/>
 
 <h2 align="center">🛠️ Languages & Frameworks & Tools & Abilities 🛠️</h2>
+<br/>
 <p align="center">
   <code><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript&color=7E26AB&logoColor=ffffff"></code>
   <code><img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-090909?style=flat&logo=React&color=7E26AB&logoColor=ffffff"></code>
@@ -55,6 +56,7 @@
 
 <details>
   <summary align="center"><h2>⚖️ Stats ⚖️<h2></summary>
+  <br/>
   [![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 <hr>
@@ -63,6 +65,7 @@
 
 <details>
   <summary align="center"><h2>🧲 Connect with me 🧲<h2></summary>
+  <br/>
   <p align="center">
     <code><a target="_blank"href="https://www.linkedin.com/in/andrew-sistuk/"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/linkedin.png" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;
     <code><a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;

@@ -21,8 +21,8 @@
   <li>😐 I have a love/hate relationship with Programming</li>
   <li>🎉 Fun Fact: I am pretty</li> 
 </ul>
-<br/>
-<br/>
+
+> Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**
 <hr>
 
 <h2 align="center">🛠️ Languages & Frameworks & Tools & Abilities 🛠️</h2>
@@ -50,11 +50,13 @@
   <code><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&style=flat&color=7E26AB&logoColor=ffffff"></code>
   <code><img alt="GitHUB" src="https://img.shields.io/badge/GitHUB-000000.svg?logo=github&style=flat&color=7E26AB&logoColor=ffffff"></code>
 </p>
+<hr>
 
 <details>
   <summary align="center"><h2>⚖️ Stats ⚖️<h2></summary>
   [![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
+<hr>
 
 <!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark -->
 
@@ -65,6 +67,4 @@
     <code><a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </details>
-
-
-> Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**
+<hr>

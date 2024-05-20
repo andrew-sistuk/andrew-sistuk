@@ -7,8 +7,8 @@
 
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
 
+<h2>⚡️ A Few Quick Facts ⚡️</h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <strong>hard</strong></li>
 <li>🌱 I’m currently learning everything 🤣</li>

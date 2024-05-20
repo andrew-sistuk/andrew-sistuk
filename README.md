@@ -2,15 +2,20 @@
 
 # _Full Stack Developer_ from Kiev.
 
+<p>I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
+<br/>
+<br/>
+
 ![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <strong>hard</strong></li>
 <li>🌱 I’m currently learning everything 🤣</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>💬 Ask me about anything, I am happy to help</li>
 <li>🎉 Fun Fact: I am pretty</li>
 </ul>
 
@@ -248,16 +253,36 @@
 </p>
 <hr>
 
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
+<br>
+
+<details>
+  <br />
+  <summary><h2 align="center">⚖️ Stats ⚖️<h2></summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark -->
 
 > Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**
 
 <details>
   <br />
-  <summary><h2>🧲 Connect with me<h2></summary>
+  <summary><h2 align="center">🧲 Connect with me<h2> 🧲</summary>
   <p align="center">
     <code><a target="_blank"href="https://www.linkedin.com/in/andrew-sistuk/"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/linkedin.png" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;
     <code><a href="mailto:andresistukwork@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img width="36px" src="https://github.com/andrew-sistuk/andrew-sistuk/blob/main/icons/gmail.png" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;

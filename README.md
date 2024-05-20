@@ -2,7 +2,7 @@
 
 ## _Full Stack Developer_ from Kiev.
 
-![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=DD1100&hit=false)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>

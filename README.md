@@ -11,13 +11,13 @@
 
 <h2>⚡️ A Few Quick Facts ⚡️</h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br/>
 <ul>
   <li>🔭 I’m currently working on something cool 😉</li>
   <li>🌱 I’m currently learning everything 🤣</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a></li>
   <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a></li>
   <li>💬 Ask me about anything, I am happy to help</li>
+  <li>🎧 I really like music</li>
   <li>😐 I have a love/hate relationship with Programming</li>
   <li>🎉 Fun Fact: I am pretty</li> 
 </ul>
@@ -54,14 +54,27 @@
 </p>
 <hr>
 
-<details>
+<details align="center">
   <summary align="center"><h2>⚖️ Stats ⚖️<h2></summary>
   <br/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  <code><img src ="https://github-readme-streak-stats.herokuapp.com?user=andrew-sistuk&theme=dracula&hide_border=true"></code>
+  <br/>
+  <br/>
+  <code><img width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=dracula"></code>
+  <br/>
+  <br/>
+  <p>
+    <img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrew-sistuk&theme=dracula">
+    <img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrew-sistuk&theme=dracula">
+  </p>
+  <p>
+    <img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrew-sistuk&theme=dracula">
+    <img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrew-sistuk&theme=dracula&utcOffset=8">
+  </p>
+  
+  <code>[![trophy](https://github-profile-trophy.vercel.app/?username=andrew-sistuk&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)</code>
 </details>
 <hr>
-
-<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=solarized_dark -->
 
 <details>
   <summary align="center"><h2>🧲 Connect with me 🧲<h2></summary>
@@ -72,3 +85,80 @@
   </p>
 </details>
 <hr>
+
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+<div align="center">
+
+### Show some 💜 by starring some of the repositories!
+
+</div>
+
+```yaml
+name: Erwin Lejeune
+located_in: Abu Dhabi, UAE
+from: Nantes (France)
+job: Robotics Software Engineer (UAV Swarms)
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+company: Technology Innovation Institute
+past experiences: 
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
+  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
+                      "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Motion Planning", "Optimization", 
+                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+
+
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```

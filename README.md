@@ -5,6 +5,8 @@
 <p>I am a versatilist and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
 
 <code>![Visitors](https://vbr.nathanchung.dev/badge?page_id=andrew-sistuk.andrew-sistuk&lcolor=7E26AB&color=555555&style=flat&logo=Github&hit=false)</code>
+
+<code>[![Visitors](https://img.shields.io/github/watchers/andrew-sistuk/andrew-sistuk?label=Visitors&style=social&color=555555&style=flat&logo=Github&labelColor=7E26AB)](https://github.com/andrew-sistuk)</code>
 <code>[![Follow](https://img.shields.io/github/followers/andrew-sistuk?label=Follow&style=social&color=555555&style=flat&logo=wolframlanguage&labelColor=7E26AB)](https://github.com/andrew-sistuk)</code>
 <code>[![Stars](https://img.shields.io/github/stars/andrew-sistuk?label=Stars&style=social&color=555555&style=flat&logo=starship&labelColor=7E26AB)](https://github.com/andrew-sistuk)</code>
 

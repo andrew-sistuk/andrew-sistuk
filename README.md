@@ -105,7 +105,7 @@ const andrew = {
 
 
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sfogtjgt7smhtws6ymrlvgeuku&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sfogtjgt7smhtws6ymrlvgeuku&cover_image=true&theme=novatorem&show_offline=true&background_color=555555&interchange=true&bar_color=7E26AB&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sfogtjgt7smhtws6ymrlvgeuku&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sfogtjgt7smhtws6ymrlvgeuku&cover_image=true&theme=novatorem&background_color=555555&interchange=true&bar_color=7E26AB&bar_color_cover=false">
 </p>
 
 <p align="center">

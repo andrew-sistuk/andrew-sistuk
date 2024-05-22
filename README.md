@@ -25,6 +25,24 @@
 > Talk is cheap. Show me the code. <br/> > **_Linus Torvalds_**
 <hr>
 
+<h2 align="center">💣 More details 💣</h2>
+
+```javascript
+const andrew = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "C#"], 
+    askMeAbout: ["web dev", "tech", "psychology"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["Mongo", "MySQL", "SQLite"],
+    },
+    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <h2 align="center">🛠️ Languages & Frameworks & Tools & Abilities 🛠️</h2>
 <br/>
 <p align="center">
@@ -87,11 +105,11 @@
 
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sfogtjgt7smhtws6ymrlvgeuku&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sfogtjgt7smhtws6ymrlvgeuku&cover_image=true&theme=novatorem&show_offline=true&background_color=555555&interchange=true&bar_color=7E26AB&bar_color_cover=false">
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sfogtjgt7smhtws6ymrlvgeuku&count=5">
 </p>
 
 <div align="center">
@@ -99,65 +117,3 @@
 ### Show some 💜 by starring some of the repositories!
 
 </div>
-
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Robotics Software Engineer (UAV Swarms)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences: 
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
-
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-
-
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```

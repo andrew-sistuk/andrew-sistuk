@@ -74,10 +74,10 @@ const andrew = {
 <details align="center">
   <summary align="center"><h2>⚖️ Stats ⚖️<h2></summary>
   <br/>
-  <code><img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=andrew-sistuk&theme=dracula&hide_border=true"></code>
+  <code align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=andrew-sistuk&theme=dracula&hide_border=true"></code>
   <br/>
   <br/>
-  <code><img align="center" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=dracula"></code>
+  <code align="center"><img width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=dracula"></code>
   <br/>
   <br/>
   <p align="center">

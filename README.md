@@ -74,12 +74,12 @@ const andrew = {
 <details align="center">
   <summary align="center"><h2>⚖️ Stats ⚖️<h2></summary>
   <br/>
-  <code align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=andrew-sistuk&theme=dracula&hide_border=true"></code>
-  <br/>
-  <br/>
-  <code align="center"><img width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=dracula"></code>
-  <br/>
-  <br/>
+  <p align="center">
+    <code><img src ="https://github-readme-streak-stats.herokuapp.com?user=andrew-sistuk&theme=dracula&hide_border=true"></code>
+  </p>
+  <p align="center">
+    <code align="center"><img width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-sistuk&theme=dracula"></code>
+  </p>
   <p align="center">
     <img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrew-sistuk&theme=dracula">
     <img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrew-sistuk&theme=dracula">

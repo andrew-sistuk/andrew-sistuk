@@ -15,7 +15,7 @@
   <li>🔭 I’m currently working on something cool 😉</li>
   <li>🌱 I’m currently learning everything 🤣</li>
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/andrew-sistuk">Github</a></li>
-  <li>📙 Check out my <a href="https://drive.google.com/file/d/1Sskmf-sZNl0RsjTC1jQGl9Q8A6wYL-mX/view?usp=sharing">resume</a></li>
+  <li>📙 Check out my <a href="https://drive.google.com/file/d/1L4ADx9RDLVqlNbCsvKopLVYZhPDKMS4e/view?usp=sharing">resume</a></li>
   <li>💬 Ask me about anything, I am happy to help</li>
   <li>🎧 I really like music</li>
   <li>😐 I have a love/hate relationship with Programming</li>
